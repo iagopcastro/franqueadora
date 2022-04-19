@@ -283,7 +283,7 @@ nav.show div.icon-close {
 /*=== HOME ===============================================*/
 #home {
     overflow: hidden;
-    background-image: url(/assets/fotos/01_BG.png);
+    background-image: url(assets/fotos/01_BG.png);
     background-repeat: no-repeat;
     display: grid;
     gap: 1.5rem;
